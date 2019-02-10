@@ -1,0 +1,1 @@
+sjasmplus 1.asm && xpeccy amd1_64.sna -d
